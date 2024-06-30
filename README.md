@@ -1,1 +1,1 @@
-# Math-Problem-Maker
+# Math Problem Maker
